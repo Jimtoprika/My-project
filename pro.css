@@ -1,0 +1,49 @@
+*{
+ margin: 0;
+ padding: 0;
+ font-family: Arial, Helvetica, sans-serif
+}
+.header h2{
+  padding: 5px 20px;
+  background: #E2DFD2;
+  
+}
+.txt1{
+  padding: 20px 20px 0px 20px;
+  text-align: center;
+  margin: 40px 0 0 0;
+}  
+
+.txt1 h1{
+  font-size: 2rem;
+}
+
+.spn{
+  background: linear-gradient(to right,#2daebe,#1e98cf);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.txt2 p{
+  text-align: center;
+  padding: 5px 20px;
+  font-size: 1.5rem;
+  color: grey;
+  margin: 50px 0 0 0;
+}
+.btn button {
+  background: linear-gradient(to right,#2daebe,#1e98cf);
+  padding: 30px;
+  font-size: 1.5rem;
+  border-radius: 20px;
+  text-align: center;
+}
+.btn{
+  text-align: center;
+  margin-top: 50px;
+}
+.txt3{
+  text-align: center;
+  padding: 20px;
+  color: grey;
+}
